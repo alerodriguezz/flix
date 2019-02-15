@@ -1,0 +1,6 @@
+framework module Pods_flix_pt1Tests {
+  umbrella header "Pods-flix_pt1Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
