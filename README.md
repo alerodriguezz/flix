@@ -48,6 +48,13 @@ task.resume()
 ### Notes
 Had a bit of trouble getting used to using cocoabeans for the first time but I figured it out.
 
-### Added Details View 
+#### Added Details View 
 
 <img src="http://g.recordit.co/ZNsHTZRYBU.gif" width=250><br>
+
+#### Added Tab Bar w/ Collection view 
+
+<img src="http://g.recordit.co/k1sB3aBWW2.gif" width=250><br>
+
+
+
